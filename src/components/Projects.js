@@ -204,7 +204,7 @@ const Other_Tours = [
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2}></img>
+      <img alt="Project Thumbnail" className="background-image-right" src={colorSharp2}></img>
     </section>
   )
 }
